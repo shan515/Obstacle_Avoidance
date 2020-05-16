@@ -1,2 +1,0 @@
-m2wr_description:my_worlds
--DCATKIN_DEVEL_PREFIX=/home/hp/wro_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hp/wro_ws/install -G Unix Makefiles
