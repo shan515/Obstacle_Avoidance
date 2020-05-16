@@ -1,0 +1,8 @@
+prefix=/home/hp/wro_ws/devel
+
+Name: robot_wro
+Description: Description of robot_wro
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
